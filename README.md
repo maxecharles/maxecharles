@@ -4,4 +4,4 @@ Hi there, my name is Max and I am completing my PhD in astronomical computationa
 
 Check out [my personal website](https://maxecharles.github.io) if you want to find out more about me and my research!
 
-![](cuppatea.JPG)
+![](cuppatea.png)
